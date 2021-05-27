@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{ 
+    background-image: url(images/bg-hero-desktop.svg) ;
+    background-attachment: fixed;
+}
+
+header {
+    width: 90%;
+    margin: 0 auto;
+}
+
+div.logo{
+    display: flex;
+    justify-content: space-between;
+}
+
+div.titulo {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+div.conteudo-titulo{
+    padding: 50px;
+    text-align: center;
+}
+
+section{
+    padding: 20px;
+    border: 1px solid gray;
+}
