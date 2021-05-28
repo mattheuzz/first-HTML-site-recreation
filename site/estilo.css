@@ -73,7 +73,7 @@ div.titulo {
 }
 
 div.conteudo-titulo{
-    width: 500px;
+    width: 450px;
     margin-top: 50px;
     padding: 50px;
     text-align: left;
@@ -105,7 +105,7 @@ h1.titulo{
 }
 
 img.mockups{
-    width: 650px; 
+    width: 700px; 
     height: 500px;
 }
 /*fim topo*/
@@ -280,7 +280,7 @@ div.lista-links{
 }
 div.lista-links2{
     width: 200px;
-    margin: 0 50px 0 20px;
+    margin: 0 20px 0 20px;
 }
 
 ul.lista-links > li{
