@@ -43,7 +43,7 @@ img.logo-superior{
 
 button.botaotopo{
     background: #fff;
-    color: hsl(192, 100%, 9%);
+    color: hsl(0, 0%, 46%);
     border-style: outset;
     width: 100px;
     height: 30px;
@@ -227,7 +227,7 @@ button.flutuante{
 footer{    
     width: 100%;
     margin-top: 70px;
-    background-color: rgb(0, 48, 51);
+    background-color: hsl(192, 100%, 9%);
 }
 
 div.footer{
@@ -275,11 +275,11 @@ img.dados{
 
 /*lista links*/
 div.lista-links{
-    width: 200px;
+    width: 100px;
     margin: 0 40px 0 0;
 }
 div.lista-links2{
-    width: 200px;
+    width: 100px;
     margin: 0 20px 0 20px;
 }
 
@@ -300,7 +300,10 @@ a.links-footer:hover{
 
 
 
-
+/*redes sociais*/
+div.lista{
+    padding-left: 90px;
+}
 
 ul.redes-sociais{
     display: flex;
@@ -320,4 +323,11 @@ img.logo-sociais{
 
 a.logo-sociais:hover{
     color: hotpink;
+}
+
+ul>li.copyright{
+    list-style-type: none;
+    color: #fff;
+    padding-top: 60px;
+    font-size: 12px;
 }
